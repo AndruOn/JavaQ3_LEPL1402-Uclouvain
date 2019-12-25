@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eb347aa-f295-44d5-80e1-438bfa9a9cf2" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3eb347aa-f295-44d5-80e1-438bfa9a9cf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CircularLinkedList$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CircularLinkedList$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CircularLinkedList.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1T7946RAI34ZaeNOY71gvzJY8Op" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="RunManager" selected="Application.CircularLinkedList">
+  <component name="ProjectId" id="1T7946RAI34ZaeNOY71gvzJY8Op" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tests.testRandom">
     <configuration name="CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularLinkedList" />
       <module name="LEPL1402_CircularLL" />
@@ -38,12 +44,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tests.testRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LEPL1402_CircularLL" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="testRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircularLinkedList" />
+        <item itemvalue="JUnit.Tests.testRandom" />
         <item itemvalue="JUnit.Tests" />
+        <item itemvalue="Application.CircularLinkedList" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,5 +86,31 @@
       <updated>1572800072681</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2829" y="93" width="2375" height="1215" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577119584101">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2829" y="93" width="2375" height="1215" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577119584101" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1577120884828">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884828" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1577120884827">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1577120884827">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1577120884827">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
+    <state x="3713" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1577118745182">
+      <screen x="2736" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3713" y="526" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577118745182" />
   </component>
 </project>

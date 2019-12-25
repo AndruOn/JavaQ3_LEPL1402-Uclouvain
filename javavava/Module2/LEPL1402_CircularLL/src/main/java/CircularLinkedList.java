@@ -10,7 +10,6 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
 
     // helper linked list class
     private class Node {
-
         private Item item;
         private Node next;
 
@@ -18,25 +17,13 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
             this.item = item;
             this.next = null;
         }
-
     }
 
     public CircularLinkedList() {
         last = null;
         n = 0;
     }
-    public static void main(String[] args){
-        CircularLinkedList cll = new CircularLinkedList();
-        cll.enqueue("caca");
-        cll.enqueue("pipi");
-        cll.enqueue("prout");
-        cll.print();
-        System.out.println("Excepted: caca pipi prout");
-        cll.remove(1);
-        cll.enqueue("pipi2");
-        cll.print();
-        System.out.println("Excepted: caca prout pipi2");
-    }
+
 
     public boolean isEmpty() {
         return n == 0;
@@ -65,8 +52,7 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
 
         if (!isEmpty()){
             Node oldLast = getLast();
-            Node first = oldLast.next;
-            newLast.next = first;
+            newLast.next = oldLast.next;
             oldLast.next = newLast;
             last = newLast;
         }
@@ -90,16 +76,15 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
             last = null;
             n = 0;
             return item;
-        }
-        else{
-            Node prev = last.next;
-            for (int i = 0; i < index-1; i++){
+        } else {
+            Node prev = last;
+            for (int i = 0; i < index ; i++) {
                 prev = prev.next;
             }
             Node removed = prev.next;
             prev.next = removed.next;
             removed.next = null;
-            if (index == size()-1){
+            if (index == size() - 1) {
                 last = prev;
             }
             n--;
@@ -110,7 +95,7 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
     public void print(){
         Iterator<Item> iter = iterator();
         System.out.println();
-        System.out.println("Print CircularLinkedList of size " + size() + " :");
+        System.out.println("CircularLinkedList of size " + size() + " :");
 
         while (iter.hasNext()){
             System.out.print(iter.next() + " ");
@@ -158,5 +143,18 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
             }
             return item;
         }
+    }
+
+    public static void main(String[] args){
+        CircularLinkedList cll = new CircularLinkedList();
+        cll.enqueue("caca");
+        cll.enqueue("pipi");
+        cll.enqueue("prout");
+        cll.print();
+        System.out.println("Excepted: caca pipi prout");
+        cll.remove(1);
+        cll.enqueue("pipi2");
+        cll.print();
+        System.out.println("Excepted: caca prout pipi2");
     }
 }

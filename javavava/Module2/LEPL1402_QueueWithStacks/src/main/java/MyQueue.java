@@ -16,29 +16,41 @@ public class MyQueue<E> {
         this.front = null;
     }
 
+    /*
+     * Push element x to the end of the queue (remember, a queue is FIFO)
+     */
     public void enqueue(E elem) {
-      if (s1.isEmpty()) {
-          front = elem;
-      }
-      s1.push(elem);
+        if (s1.isEmpty()) {
+              front = elem;
+        }
+        s1.push(elem);
     }
 
+    /*
+     * Removes the front element of this queue
+     */
     public E dequeue() {
-      int l = s1.size();
-      for (int i = 0; i < l; i++){
+        int l = s1.size();
+        for (int i = 0; i < l; i++){
           s2.push(s1.pop());
-      }
-      E front = s2.pop();
-      for (int i = 0; i < l; i++){
+        }
+        E front = s2.pop();
+        for (int i = 0; i < l; i++){
           s1.push(s2.pop());
-      }
-      return front;
+        }
+        return front;
     }
 
+    /*
+     * Get the first element of this list but does not remove it
+     */
     public E peek() {
       return front;
     }
 
+    /*
+     * Tells if the queue is empty or not.
+     */
     public boolean empty() {
       return s1.isEmpty();
     }

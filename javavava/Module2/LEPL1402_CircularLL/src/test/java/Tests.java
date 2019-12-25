@@ -100,11 +100,31 @@ public class Tests{
                 jdk.add(v);
             }
 
+            std.print();
+            for (int j = 0; j < jdk.size(); j++) {
+                System.out.print(jdk.get(j));
+                System.out.print(" ");
+            }
+
+            System.out.println();
+            System.out.print("Remove begins");
+            System.out.println();
+
             if (i%2 == 0) {
                 std.remove(10);
                 jdk.remove(10);
+                std.print();
+                for (int j = 0; j < jdk.size(); j++) {
+                    System.out.print(jdk.get(j));
+                    System.out.print(" ");
+                }
                 std.remove(0);
                 jdk.remove(0);
+                std.print();
+                for (int j = 0; j < jdk.size(); j++) {
+                    System.out.print(jdk.get(j));
+                    System.out.print(" ");
+                }
                 std.remove(std.size()-1);
                 jdk.remove(jdk.size()-1);
             }
@@ -112,6 +132,11 @@ public class Tests{
             Iterator<Integer> stdIter = std.iterator();
             Iterator<Integer> jdkIter = jdk.iterator();
             assertEquals(jdk.size(),std.size());
+            std.print();
+            for (int j = 0; j < jdk.size(); j++) {
+                System.out.print(jdk.get(j));
+                System.out.print(" ");
+            }
 
             while (jdkIter.hasNext()) {
                 assertTrue(stdIter.hasNext());
