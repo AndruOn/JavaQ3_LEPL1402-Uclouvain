@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97e62f6c-67d2-4d8c-b797-27f9fb1bb882" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="97e62f6c-67d2-4d8c-b797-27f9fb1bb882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FList+FListMergeSort/LEPL1402_FList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_FList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/src/main/java/FList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/src/main/java/templates/FList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_FListMergeSort/src/test/java/Tests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1TFPF7F1cxdKBsFxNd1aDo2l557" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CM5/RecursiveTree.java" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -38,5 +62,11 @@
       <updated>1573052764089</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2069" y="-810" key="FileChooserDialogImpl" timestamp="1577625484529">
+      <screen x="1329" y="-1086" width="1920" height="1040" />
+    </state>
+    <state x="2069" y="-810" key="FileChooserDialogImpl/0.0.1368.872/1329.-1086.1920.1040/-591.-1080.1920.1040@1329.-1086.1920.1040" timestamp="1577625484529" />
   </component>
 </project>

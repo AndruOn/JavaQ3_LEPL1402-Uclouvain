@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658dffc6-7420-4fdc-8b2f-af056ae294c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/LEPL1402_MyArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/src/main/java/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/src/main/java/CircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/classes/CircularLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/target/test-classes/Tests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyQueue.class" afterDir="false" />
@@ -84,25 +74,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1326" height="400" key="GridCell.Tab.0.bottom" timestamp="1577178863296">
+    <state width="1326" height="246" key="GridCell.Tab.0.bottom" timestamp="1577440771954">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1326" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1577178863296" />
     <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577123729524" />
-    <state width="1326" height="400" key="GridCell.Tab.0.center" timestamp="1577178863296">
+    <state width="1326" height="246" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1577440771954" />
+    <state width="1326" height="246" key="GridCell.Tab.0.center" timestamp="1577440771954">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1326" height="400" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1577178863296" />
     <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577123729524" />
-    <state width="1326" height="400" key="GridCell.Tab.0.left" timestamp="1577178863296">
+    <state width="1326" height="246" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1577440771954" />
+    <state width="1326" height="246" key="GridCell.Tab.0.left" timestamp="1577440771954">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1326" height="400" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1577178863296" />
     <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577123729524" />
-    <state width="1326" height="400" key="GridCell.Tab.0.right" timestamp="1577178863296">
+    <state width="1326" height="246" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1577440771954" />
+    <state width="1326" height="246" key="GridCell.Tab.0.right" timestamp="1577440771954">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1326" height="400" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@0.0.1368.872" timestamp="1577178863296" />
     <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577123729524" />
+    <state width="1326" height="246" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1577440771954" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1577439615415">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1577439615415" />
   </component>
 </project>

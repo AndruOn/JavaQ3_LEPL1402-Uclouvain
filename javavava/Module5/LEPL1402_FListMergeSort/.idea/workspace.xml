@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fad6b41-b9b0-4bd4-b8ad-77d690d9ad25" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0fad6b41-b9b0-4bd4-b8ad-77d690d9ad25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FList+FListMergeSort/LEPL1402_FList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/templates/FList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1UbYxbXnl3LvkwhMqQWFAldAaxR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LEPL1402_FTree" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -36,5 +56,15 @@
       <updated>1575627009548</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1577440816248">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1577440816248" />
+    <state x="499" y="215" key="chooseDestDirectoryDialog" timestamp="1577440789215">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="499" y="215" key="chooseDestDirectoryDialog/0.0.1368.872@0.0.1368.872" timestamp="1577440789215" />
   </component>
 </project>

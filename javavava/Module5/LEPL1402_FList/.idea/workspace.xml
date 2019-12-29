@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7813a648-9ee6-4823-a517-0f031856851f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="7813a648-9ee6-4823-a517-0f031856851f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FList+FListMergeSort/LEPL1402_FList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/src/main/java/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/target/classes/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/src/main/java/FList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/src/main/java/templates/FList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/src/test/java/Tests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1UVqJ6uDHRHZEwZ9oD2l3H98b6Z" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager" selected="Application.FList">
     <configuration name="FList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -44,6 +51,18 @@
         <item itemvalue="JUnit.Tests" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />

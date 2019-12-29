@@ -35,7 +35,7 @@ public class MyQueue<E> {
           s2.push(s1.pop());
         }
         E front = s2.pop();
-        for (int i = 0; i < l; i++){
+        for (int i = 0; i < l-1; i++){
           s1.push(s2.pop());
         }
         return front;
@@ -56,9 +56,11 @@ public class MyQueue<E> {
     }
 
     public void print(){
+        System.out.println("The Stack:");
         for (E elem : s1) {
             System.out.print(elem+ " ");
         }
+        System.out.println();
         System.out.println();
     }
 
@@ -67,6 +69,10 @@ public class MyQueue<E> {
         q.enqueue("caca");
         q.enqueue("pipi");
         q.enqueue("prout");
+        q.print();
+        q.dequeue();
+        q.print();
+        q.dequeue();
         q.print();
     }
 }

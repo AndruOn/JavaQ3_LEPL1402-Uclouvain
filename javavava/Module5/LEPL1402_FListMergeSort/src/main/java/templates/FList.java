@@ -37,6 +37,16 @@ import java.util.function.Predicate;
         public static final class Nil<A> extends FList<A> {
             private static  final Nil<Object> INSTANCE = new Nil();
 
+            @Override
+            public A head() {
+                return null;
+            }
+
+            @Override
+            public FList<A> tail() {
+                return null;
+            }
+
             //CODE HIDDEN
 
         }
@@ -45,7 +55,17 @@ import java.util.function.Predicate;
 
             private A head;
             private FList<A> tail;
-            
+
+            @Override
+            public A head() {
+                return null;
+            }
+
+            @Override
+            public FList<A> tail() {
+                return null;
+            }
+
             //CODE HIDDEN
             
         }
