@@ -56,5 +56,13 @@ public class Person {
         sortPerson(persons);
         System.out.println(persons);
 
+
+        List<Integer> p = new ArrayList<Integer>();
+        str[1] = "ba";
+        char character = 'a';
+        System.Out.println((int) character);
     }
 }
+
+
+    

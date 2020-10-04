@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-// TODO Finish tests
+
 public class Tests {
 
     // for testing

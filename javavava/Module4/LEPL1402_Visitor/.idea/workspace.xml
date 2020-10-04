@@ -1,27 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b20fdfc-3c2c-4e07-8cde-7161bfd646f4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0b20fdfc-3c2c-4e07-8cde-7161bfd646f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics2/LEPL1402_Generics2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics3_LogicalCircuit/LEPL1402_Generics3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module6/LEPL1402_ParallelelMergeSort/LEPL1402_ParallelelMergeSort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1TvF4VYS3QUgUVdeHLGIQBZoO22" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tests">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1TvF4VYS3QUgUVdeHLGIQBZoO22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.postFixCalculator">
+    <configuration name="postFixCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postFixCalculator" />
+      <module name="LEPL1402_Visitor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LEPL1402_Visitor" />
       <option name="PACKAGE_NAME" value="" />
@@ -43,10 +79,23 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.postFixCalculator" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.testBasicTrees" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,5 +109,31 @@
       <updated>1574332470839</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom" timestamp="1578411328221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
+    <state width="1326" height="226" key="GridCell.Tab.0.center" timestamp="1578411328221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
+    <state width="1326" height="226" key="GridCell.Tab.0.left" timestamp="1578411328221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right" timestamp="1578411328221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="226" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578398361476">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1368.872@0.0.1368.872" timestamp="1578398361476" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578395824915">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578395824915" />
   </component>
 </project>

@@ -156,5 +156,8 @@ public class CircularLinkedList<Item> implements Iterable<Item> {
         cll.enqueue("pipi2");
         cll.print();
         System.out.println("Excepted: caca prout pipi2");
+
+        int a =300;
+        System.out.println(a);
     }
 }

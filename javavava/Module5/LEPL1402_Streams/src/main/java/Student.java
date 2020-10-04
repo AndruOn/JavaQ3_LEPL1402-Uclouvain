@@ -47,11 +47,9 @@ public class Student implements Comparable<Student> {
 
     @Override
     public boolean equals(Object obj) {
-
         if (obj == null || !(obj instanceof Student)) {
             return false;
         }
-
         return this.compareTo((Student) obj) == 0;
     }
 }

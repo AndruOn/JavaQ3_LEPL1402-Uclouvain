@@ -2,12 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb347aa-f295-44d5-80e1-438bfa9a9cf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxSubArray/.idea/artifacts/maxSubArray_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics2/LEPL1402_Generics2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics3_LogicalCircuit/LEPL1402_Generics3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module6/LEPL1402_ParallelelMergeSort/LEPL1402_ParallelelMergeSort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/target/classes/IntroductionExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/target/classes/IntroductionExercises.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/target/test-classes/IntroductionExercicesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/target/test-classes/IntroductionExercicesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/target/classes/Divider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/target/classes/Divider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/target/test-classes/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/target/classes/Decoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/target/classes/Decoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/target/test-classes/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_Comparator and Collection/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_Comparator and Collection/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/target/classes/Sieve.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/target/classes/Sieve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/target/test-classes/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/target/classes/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/target/classes/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/target/test-classes/Tests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CircularLinkedList$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CircularLinkedList$ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CircularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxSubArray/out/production/maxSubArray/maxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maxSubArray/out/production/maxSubArray/maxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/target/classes/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module4/LEPL1402_Visitor/target/classes/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.Tests.testRandom">
+  <component name="RunManager" selected="Application.CircularLinkedList">
     <configuration name="CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularLinkedList" />
       <module name="LEPL1402_CircularLL" />
@@ -56,9 +87,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularLinkedList" />
         <item itemvalue="JUnit.Tests.testRandom" />
         <item itemvalue="JUnit.Tests" />
-        <item itemvalue="Application.CircularLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -88,29 +119,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2829" y="93" width="2375" height="1215" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577119584101">
-      <screen x="2736" y="0" width="2560" height="1400" />
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom" timestamp="1601473989441">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="2829" y="93" width="2375" height="1215" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577119584101" />
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1577120884828">
-      <screen x="2736" y="0" width="2560" height="1400" />
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1601473989441" />
+    <state width="1326" height="226" key="GridCell.Tab.0.center" timestamp="1601473989440">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884828" />
-    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1577120884827">
-      <screen x="2736" y="0" width="2560" height="1400" />
+    <state width="1326" height="226" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1601473989440" />
+    <state width="1326" height="226" key="GridCell.Tab.0.left" timestamp="1601473989440">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
-    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1577120884827">
-      <screen x="2736" y="0" width="2560" height="1400" />
+    <state width="1326" height="226" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1601473989440" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right" timestamp="1601473989441">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
-    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1577120884827">
-      <screen x="2736" y="0" width="2560" height="1400" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1601473989441" />
+    <state x="392" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1601473751596">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577120884827" />
-    <state x="3713" y="526" key="com.intellij.ide.util.TipDialog" timestamp="1577118745182">
-      <screen x="2736" y="0" width="2560" height="1400" />
-    </state>
-    <state x="3713" y="526" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.2560.1400@2736.0.2560.1400" timestamp="1577118745182" />
+    <state x="392" y="265" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1601473751596" />
   </component>
 </project>

@@ -1,74 +1,76 @@
-import java.util.*;
+import java.sql.PseudoColumnUsage;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Optional;
 import java.util.function.Predicate;
 import java.util.stream.Stream;
 
 public class StudentFunctions implements StudentStreamFunction {
 
-    @Override
-    public Stream<Student> findSecondAndThirdTopStudentForGivenCourse(Stream<Student> studentStream, String name) {
-        Stream<Student> results = studentStream
-                .sorted( ((Comparator<Student>) (o1,o2) -> {
-                      double d1 = o1.getCoursesResults().get(name);
-                      double d2 = o2.getCoursesResults().get(name);
-                      return Double.compare(d1,d2);
-                  }).reversed()
-                ).limit(3).skip(1);
-        return results;
+    public Stream<Student> findSecondAndThirdTopStudentForGivenCourse(Stream<Student> studentStream, String name){
+        Stream<Student> best3StudentsForGivenCourse = studentStream.filter(student -> student.getCoursesResults().containsKey(name))
+                .sorted(
+                        ((Comparator<Student>) (s1, s2) -> Double.compare(s1.getCoursesResults().get(name), s2.getCoursesResults().get(name)))
+                                .reversed()
+                ).limit(3);
+        return best3StudentsForGivenCourse.skip(1);
     }
 
-    @Override
-    public Object[] computeAverageForStudentInSection(Stream<Student> studentStream, int section) {
-        Object[] results = studentStream
-              .filter( (s) -> (s.getSection() == section) )
-              .map(stud -> new Object[]{
-                      String.format("% % %", "Student", stud.getFirstName(), stud.getLastName()),
-                              stud.getCoursesResults().values().stream()
-                                      .reduce(0.0, (a,b) -> (a+b)) / (double) stud.getCoursesResults().size() }
-              ).toArray();
-        return results;
+    public Object[] computeAverageForStudentInSection(Stream<Student> studentStream, int section){
+        Stream<Object[]> result = studentStream.filter(s -> s.getSection() == section)
+                .map( s -> new Object[]{
+                        String.format("Student %s %s", s.getFirstName(), s.getLastName()),
+                        s.getCoursesResults().values().stream().reduce(0.0,(a,b)->(a+b/2)) }
+                ).sorted( (s1,s2)-> (int) ((Double) s2[1] - (Double) s1[1]));
+        Object[] arrayResult = result.toArray();
+        return result.toArray();
     }
 
-    @Override
-    public int getNumberOfSuccessfulStudents(Stream<Student> studentStream) {
-        Stream<Student> successfulStudents = studentStream
-                .filter( (stud)-> {
-                    Stream<Double> successOfStudent = stud.getCoursesResults().values().stream()
-                            .filter((i) -> (i>10.0));
-                    return successOfStudent.count() == stud.getCoursesResults().size();
-                });
-        return (int) successfulStudents.count();
+    public int getNumberOfSuccessfulStudents(Stream<Student> studentStream){
+        long numberOfSuccesfullStudents = studentStream.filter(
+                (s) -> (s.getCoursesResults().values().stream().filter(d->d>10.0).count() == s.getCoursesResults().values().size())
+        ).count();
+        return (int) numberOfSuccesfullStudents;
     }
 
-    @Override
-    public Student findLastInLexicographicOrder(Stream<Student> studentStream) {
-        Student last = studentStream
-                .sorted((s1,s2) -> Comparator
-                        .comparing(Student::getLastName)
-                        .thenComparing(Student::getFirstName)
-                        .reversed().compare(s1, s2))
-                .limit(1).findFirst().get();
-        return last;
+    public Student findLastInLexicographicOrder(Stream<Student> studentStream){
+      return studentStream.sorted( Comparator
+              .comparing(Student::getLastName)
+              .thenComparing(Student::getFirstName).reversed() ).findFirst().get();
     }
 
-    @Override
-    public double getFullSum(Stream<Student> studentStream) {
-        return studentStream.map( (st) -> (st.getCoursesResults().values().stream().reduce(0.0, Double::sum)) )
-                  .reduce(0.0, Double::sum);
+    public double getFullSum(Stream<Student> studentStream){
+      return studentStream.mapToDouble(s -> s.getCoursesResults().values().stream().reduce(0.0, (a, b) -> a + b)).reduce(0.0, (a, b) -> a + b);
     }
+
+    public static void print(Stream<Student> studentStream) {
+        Object[] array =
+                studentStream.map(student ->
+                        String.format("Student %s %s average: %s", student.getFirstName(), student.getLastName(),
+                        Double.toString(student.getCoursesResults().values().stream().reduce(0.0, (a, b) -> (a + b / 2))))
+                        )
+                .toArray();
+        print(array);
+    }
+
+    private static void print(Object[] objects) {
+      for (Object student: objects) {
+        System.out.println((String) student);
+      }
+    }
+
 
     public static void main(String[] args) {
-      List<String> myList = Arrays.asList("a1", "a2", "b1", "c2", "c1");
-      myList
-              .stream()
-              .filter(s -> s.startsWith("c"))
-              .map(String::toUpperCase)
-              .sorted()
-              .forEach(System.out::println);
-      /*
-      Stream<Student> studentStream = Stream.of(
-              new Student("Leon", "Holeschovsky", 1, ),
-              new Student())
-
-       */
+        Student[] students =new Student[]{
+                new Student("leon","holes", 1, new HashMap<String, Double>(){{ put("math",12.1); put("sciences",0.5); }}),
+                new Student("andru","onciul", 1, new HashMap<String, Double>(){{ put("math",18.0); put("sciences",20.5); }}),
+                new Student("jo","mangala", 1, new HashMap<String, Double>(){{ put("math",0.8); put("sciences",15.5); }})
+        };
+        Stream<Student> studentStream = Stream.of(students);
+        StudentFunctions studentFunctions = new StudentFunctions();
+        print(studentStream);
+        studentStream = Stream.of(students);
+        studentFunctions.computeAverageForStudentInSection(studentStream,1);
     }
 }
