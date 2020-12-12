@@ -2,8 +2,8 @@ import java.util.List;
 
 public class MeteoStation extends Observable {
 
-    public MeteoStation(){
-    }
+    public MeteoStation(){  }
+
     @Override
     public Observer[] getSubscribers() {
         Observer[] subscribersArray = new Observer[this.subscribers.size()];

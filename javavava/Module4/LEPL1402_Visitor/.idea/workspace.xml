@@ -1,29 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b20fdfc-3c2c-4e07-8cde-7161bfd646f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics2/LEPL1402_Generics2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Generics3_LogicalCircuit/LEPL1402_Generics3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Module6/LEPL1402_ParallelelMergeSort/LEPL1402_ParallelelMergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Observer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Observer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/src/main/java/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/src/main/java/MyArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/test-classes/TestsParallelMergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/src/main/java/Valley.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_valley/src/main/java/Valley.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/META-INF/maxSubArray.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/maxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/maxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/src/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/src/maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/AbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_ComparatorvsComparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_ComparatorvsComparable/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/main/java/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/target/classes/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/src/main/java/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_Factory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_Factory/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_Factory/src/main/java/ElementFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_Factory/src/main/java/ElementFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_Observer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_Observer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_Observer/src/main/java/MeteoStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_Observer/src/main/java/MeteoStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_Observer/target/classes/MeteoStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_Observer/target/classes/MeteoStation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/src/main/java/StudentStreamFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/LEPL1402_Streams/target/classes/StudentFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/src/main/java/VisitorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/src/main/java/VisitorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/target/classes/VisitorList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_VisitorBasic/target/classes/VisitorList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +68,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\andru\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1TvF4VYS3QUgUVdeHLGIQBZoO22" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.postFixCalculator">
     <configuration name="postFixCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,18 +120,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -111,29 +135,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1326" height="226" key="GridCell.Tab.0.bottom" timestamp="1578411328221">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1606048507203">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
-    <state width="1326" height="226" key="GridCell.Tab.0.center" timestamp="1578411328221">
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1605708217843" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1606048507203" />
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom" timestamp="1605706247553">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="226" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
-    <state width="1326" height="226" key="GridCell.Tab.0.left" timestamp="1578411328221">
+    <state width="1326" height="226" key="GridCell.Tab.0.bottom/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1605706247553" />
+    <state width="1326" height="226" key="GridCell.Tab.0.center" timestamp="1605706247553">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="226" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
-    <state width="1326" height="226" key="GridCell.Tab.0.right" timestamp="1578411328221">
+    <state width="1326" height="226" key="GridCell.Tab.0.center/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1605706247553" />
+    <state width="1326" height="226" key="GridCell.Tab.0.left" timestamp="1605706247553">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="226" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578411328221" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1578398361476">
+    <state width="1326" height="226" key="GridCell.Tab.0.left/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1605706247553" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right" timestamp="1605706247553">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1368.872@0.0.1368.872" timestamp="1578398361476" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578395824915">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578395824915" />
+    <state width="1326" height="226" key="GridCell.Tab.0.right/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1605706247553" />
   </component>
 </project>

@@ -8,10 +8,15 @@ public class MyBuilder implements Array2DBuilderInterface {
     //TODO YOUR CODE HERE
   }
 
-  public int[][] transpose(int[][] matrix) {
+  public static int[][] transpose(int[][] matrix) {
     //TODO YOUR CODE HERE
   }
   public int[][] product(int[][] matrix1, int[][] matrix2) {
     //TODO YOUR CODE HERE
   }
+
+    MyBuilder b = new MyBuilder();
+    b.product(gsgs,sgd);
+    MyBuilder.transpose(dff);
+    Sorter.sortA(arraylist);
 }

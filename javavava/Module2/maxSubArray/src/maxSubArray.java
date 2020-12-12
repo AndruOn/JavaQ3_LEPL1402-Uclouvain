@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Arrays;
 
 public class maxSubArray {
@@ -54,11 +56,14 @@ public class maxSubArray {
     }
 
 
+
     public static void main(String[] args) {
         int[] a = new int[]{-2,1,-3,4,-1,2,1,-5,4};
+        System.out.println(Arrays.toString(maxSubArray(a))); //[6, 3, 6]
         int[] b = new int[]{3,-2,4,3,-2,3};
-        System.out.println(Arrays.toString(maxSubArraySum(a)));
-        System.out.println(Arrays.toString(maxSubArraySum(b)));
+        System.out.println(Arrays.toString(maxSubArray(b)));//[9, 0, 5]
+
+        System.out.println(Arrays.toString(maxSubArraySum(new int[]{-1})));
     }
 
 }

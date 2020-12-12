@@ -1,8 +1,5 @@
 import java.sql.PseudoColumnUsage;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.function.Predicate;
 import java.util.stream.Stream;
 
@@ -18,13 +15,28 @@ public class StudentFunctions implements StudentStreamFunction {
     }
 
     public Object[] computeAverageForStudentInSection(Stream<Student> studentStream, int section){
-        Stream<Object[]> result = studentStream.filter(s -> s.getSection() == section)
+        return studentStream.filter(s -> s.getSection() == section)
                 .map( s -> new Object[]{
                         String.format("Student %s %s", s.getFirstName(), s.getLastName()),
-                        s.getCoursesResults().values().stream().reduce(0.0,(a,b)->(a+b/2)) }
-                ).sorted( (s1,s2)-> (int) ((Double) s2[1] - (Double) s1[1]));
-        Object[] arrayResult = result.toArray();
-        return result.toArray();
+                        s.getCoursesResults().values().stream().reduce(0.0,(a,b)->(a+b))/s.getCoursesResults().size()
+                    }
+                ).sorted( (s1,s2)-> (int) ((Double) s2[1] - (Double) s1[1])).toArray();
+    }
+
+    public Object[] computeAverageForStudentInSectionComp(Stream<Student> studentStream, int section){
+        return studentStream.filter(s -> s.getSection() == section)
+                .map( s -> new Object[]{
+                                String.format("Student %s %s", s.getFirstName(), s.getLastName()),
+                                s.getCoursesResults().values().stream().reduce(0.0,(a,b)->(a+b))/s.getCoursesResults().size()
+                        }
+                ).sorted(new Comparator<Object[]>() {
+                                             @Override
+                                             public int compare(Object[] o1, Object[] o2) {
+                                                 return Double.compare((Double)o1[1],(Double)o2[1]);
+                                             }
+                                         }
+
+                ).toArray();
     }
 
     public int getNumberOfSuccessfulStudents(Stream<Student> studentStream){
@@ -70,7 +82,11 @@ public class StudentFunctions implements StudentStreamFunction {
         Stream<Student> studentStream = Stream.of(students);
         StudentFunctions studentFunctions = new StudentFunctions();
         print(studentStream);
+        /*
         studentStream = Stream.of(students);
         studentFunctions.computeAverageForStudentInSection(studentStream,1);
+         */
+        studentStream = Stream.of(students);
+        Arrays.stream(studentFunctions.computeAverageForStudentInSectionComp(studentStream,1)).forEach((i)-> System.out.print(String.format("%s %d",(String) i[0],(Double) i[1])));
     }
 }

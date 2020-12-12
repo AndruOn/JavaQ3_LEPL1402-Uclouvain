@@ -1,6 +1,7 @@
 public class ElementFactory extends Factory {
 
     private static final ElementFactory instance = new ElementFactory();
+
     private ElementFactory(){};
 
     public static ElementFactory getInstance() {

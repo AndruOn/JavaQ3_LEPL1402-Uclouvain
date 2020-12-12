@@ -1,20 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1673d93-ea02-40fb-abc0-c7c5ea9fb44d" name="Default Changelist" comment="" />
+    <list default="true" id="e1673d93-ea02-40fb-abc0-c7c5ea9fb44d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/src/main/java/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/src/main/java/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/classes/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_MyArrayList/target/test-classes/TestsParallelMergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/META-INF/maxSubArray.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/maxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/out/production/maxSubArray/maxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/maxSubArray/src/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/maxSubArray/src/maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_ComparatorvsComparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_ComparatorvsComparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_TreeSame/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/src/main/java/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\andru\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1Vfddo9gW3D3uQT7MRtdKMo3xIV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LEPL1402_TreeInorder" />
   </component>
   <component name="RunManager">
     <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -32,18 +75,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -58,25 +90,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1577652556555">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="-1267" y="228" key="FileChooserDialogImpl" timestamp="1603895332924">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1577652556555" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1577652556555">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1577652556555" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1577652556555">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1577652556555" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1577652556555">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1577652556555" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1577648186498">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1577648186498" />
+    <state x="-1267" y="228" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603895332924" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1603286863657" />
   </component>
 </project>

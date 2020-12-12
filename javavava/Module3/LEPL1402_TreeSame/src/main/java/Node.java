@@ -14,6 +14,10 @@ public class Node {
 
     @Override
     public boolean equals(Object o){
-        return o.equals(this.val);
+        if (o instanceof  Node){
+            Node node = (Node) o;
+            return node.val == this.val;
+        }
+        return false;
     }
 }

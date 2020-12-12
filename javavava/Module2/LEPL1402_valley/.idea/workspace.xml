@@ -1,25 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8d4949-19f7-4b30-bb75-300889ae2257" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="da8d4949-19f7-4b30-bb75-300889ae2257" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_CircularLL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_CircularLL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_HanoiTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_HanoiTower/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/main/java/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/main/java/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList$MyArrayListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/classes/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/target/test-classes/TestsParallelMergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_QueueWithStacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_QueueWithStacks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Valley.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Valley.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxSubArray/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maxSubArray/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxSubArray/out/production/maxSubArray/META-INF/maxSubArray.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxSubArray/out/production/maxSubArray/maxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maxSubArray/out/production/maxSubArray/maxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxSubArray/src/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maxSubArray/src/maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/AbstractClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/AbstractClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_ComparatorvsComparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_ComparatorvsComparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeCombineWith/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeInorder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/LEPL1402_TreeSame/src/main/java/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SqDPyDsyu2v4tWZ9nKfd82FeUM" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\andru\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectId" id="1SqDPyDsyu2v4tWZ9nKfd82FeUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maxSubArray" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.Valley">
     <configuration name="Valley" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -45,6 +93,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,6 +106,24 @@
       <updated>1572282212011</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604499092034">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604499092034" />
+    <state x="-1180" y="272" key="FileChooserDialogImpl" timestamp="1604499753682">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="272" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604499753682" />
+    <state x="-940" y="179" key="Maven.ArtifactSearchDialog" timestamp="1604499065913">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-940" y="179" key="Maven.ArtifactSearchDialog/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604499065913" />
+    <state x="-1480" y="93" key="SettingsEditor" timestamp="1604499108279">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="93" key="SettingsEditor/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604499108279" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

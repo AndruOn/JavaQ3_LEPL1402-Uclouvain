@@ -10,16 +10,10 @@ public class Valley{
      */
 
      public static int[] valley ( int[] array){
-
          int[] hauteurMax = new int[2];
          boolean enMonte;
-         if (array[0] == 1){
-             enMonte = true;
-         }
-         else{
-             enMonte = false;
-         }
-
+         if (array[0] == 1){ enMonte = true; }
+         else{ enMonte = false; }
 
          int hauteur = 0;
          int countMonte = 0;
@@ -34,7 +28,6 @@ public class Valley{
              }
              else if (i == 1 && enMonte == false){
                  enMonte = true;
-
                  if (hauteur - countMonte > hauteurMax[0]){
                      hauteurMax[0] = hauteur - countMonte;
                      countMonte = 0;
@@ -42,7 +35,6 @@ public class Valley{
                  countMonte++;
              }
              else{
-
                  if (enMonte) {
                      enMonte = false;
                      hauteur = countMonte;
@@ -78,7 +70,6 @@ public class Valley{
                  countDescente++;
              }
              else{
-
                  if (!enMonte) {
                      enMonte = true;
                      profondeur = countDescente;
@@ -98,7 +89,6 @@ public class Valley{
          if (profondeur - countDescente > hauteurMax[1]) {
              hauteurMax[1] = profondeur - countDescente;
          }
-
          return new int[]{hauteurMax[1],hauteurMax[0]};
      }
 

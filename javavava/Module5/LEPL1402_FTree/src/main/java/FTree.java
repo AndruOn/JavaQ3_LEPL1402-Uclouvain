@@ -16,7 +16,11 @@ public abstract class FTree<A> {
 
     public final <B> FTree<B> map(Function<A,B> f) {
         if (this instanceof Node){
-            return new Node(f.apply(value()), left().map(f), right().map(f));
+            return new Node<>(
+                    f.apply(this.value()),
+                    this.left() == null? null : this.left().map(f),
+                    this.right() == null? null : this.right().map(f)
+            );
         }else{
             return new Leaf(f.apply(value()));
         }

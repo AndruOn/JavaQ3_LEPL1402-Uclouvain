@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e79f4f0f-63a8-41c3-a537-42af8d037c2c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e79f4f0f-63a8-41c3-a537-42af8d037c2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.0_IntroductionExercices/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.1_LearnException/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.2_MakeMistakeToUnderstandThem/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/src/main/java/MyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/1.3_Array2D/target/classes/MyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_ASCIIDecoder/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_SieveOfEratosthenesImplementation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1/LEPL1402_StringUtils/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_CircularLL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module2/LEPL1402_HanoiTower/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_ComparatorvsComparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_ComparatorvsComparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_TreeCombineWith/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_TreeCombineWith/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_TreeSame/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_TreeSame/src/main/java/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +33,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1TKT9p2DPzfaK4BivvEDVhdq8D5" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LEPL1402_Inheritance" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectId" id="1TKT9p2DPzfaK4BivvEDVhdq8D5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Module2/maxSubArray" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -42,7 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,5 +75,11 @@
       <updated>1573207638227</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1106" y="400" key="FileChooserDialogImpl" timestamp="1603890291461">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1106" y="400" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603890291461" />
   </component>
 </project>

@@ -41,14 +41,13 @@ public class MyArrayList<Item> implements Iterable<Item> {
     public Item remove(int index){
         if (index < 0 || index > size - 1) {
             throw new IndexOutOfBoundsException();
-        } else {
-            Item item = (Item) list[index];
-            for (int i = 0; i < size - 1; i++) {
-                list[i] = list[i + 1];
-            }
-            list[size-- - 1] = null;
-            return item;
         }
+        Item item = (Item) list[index];
+        for (int i = 0; i < size - 1; i++) {
+            list[i] = list[i + 1];
+        }
+        list[size-- - 1] = null;
+        return item;
     }
 
     public void print(){
@@ -104,5 +103,9 @@ public class MyArrayList<Item> implements Iterable<Item> {
         l.print();
         l.remove(2);
         l.print();
+        Iterator iter = l.iterator();
+        while (iter.hasNext()) {
+            System.out.println(iter.next());
+        }
     }
 }

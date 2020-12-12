@@ -22,7 +22,6 @@ public class VisitorList extends Visitor {
         for (Object element: visitable.elements){
             this.visit(element);
         }
-
     }
 
     @Override
