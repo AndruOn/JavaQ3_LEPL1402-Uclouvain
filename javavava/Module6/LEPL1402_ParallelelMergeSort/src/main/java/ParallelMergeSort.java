@@ -25,16 +25,7 @@ public class ParallelMergeSort<E> extends RecursiveAction {
 
     public E[] getArray(){ return array; }
 
-    public void printResultOfTask(){
-        StringBuilder stringBuilder = new StringBuilder();
-        stringBuilder.append("[");
-        for (E object : array) {
-            stringBuilder.append(String.format(" %s,", Integer.toString((int) object)));
-        }
-        stringBuilder.delete(stringBuilder.length()-1, stringBuilder.length());
-        stringBuilder.append("]\n");
-        System.out.print(stringBuilder.toString());
-    }
+
 
     /*
      * Run a normal sort when the difference between hi and lo is under the threshold
@@ -81,6 +72,17 @@ public class ParallelMergeSort<E> extends RecursiveAction {
         }
 
         System.arraycopy(this.aux,lo,array,lo,hi-lo+1);
+    }
+
+    public void printResultOfTask(){
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("[");
+        for (E object : array) {
+            stringBuilder.append(String.format(" %s,", Integer.toString((int) object)));
+        }
+        stringBuilder.delete(stringBuilder.length()-1, stringBuilder.length());
+        stringBuilder.append("]\n");
+        System.out.print(stringBuilder.toString());
     }
 
     public static void main(String[] args) {

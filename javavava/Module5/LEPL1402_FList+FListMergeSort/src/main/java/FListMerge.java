@@ -15,7 +15,7 @@ public class FListMerge {
     }
 
     public static FList<Integer> mergeSort(FList<Integer> fList) {
-        boolean toPrint = false;
+        boolean toPrint = true;
         if (fList.length() <= 1) { return fList; }
 
         FList<Integer> firstHalf = new FList.Nil<Integer>();
